@@ -17,7 +17,7 @@ body {
     margin: 0;
     background-color: var(--white);
     color: var(--ink);
-    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-family: comic sans ms, sans-serif;
 }
 
 a {
@@ -41,7 +41,7 @@ a {
 
 .brand {
     color: var(--blue);
-    font-family: Georgia, serif;
+    font-family: comic sans ms, sans-serif;
     font-size: 30px;
     font-weight: 700;
     letter-spacing: -2px;
@@ -57,13 +57,13 @@ nav {
     align-items: center;
     gap: 32px;
     color: var(--muted);
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 600;
 }
 
 .custom-text {
     margin: 0;
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 600;
 }
 
@@ -74,15 +74,15 @@ nav a:hover,
 
 .hero {
     min-height: calc(100vh - 161px);
-    padding: 128px 0 80px;
+    padding: 128px 0 60px;
 }
 
 .eyebrow,
 .project-number {
     margin: 0 0 24px;
     color: var(--blue);
-    font-size: 12px;
-    font-weight: 700;
+    font-size: 9px;
+    font-weight: 500;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
@@ -90,7 +90,7 @@ nav a:hover,
 h1,
 h2 {
     margin: 0;
-    font-family: Georgia, serif;
+    font-family: comic sans ms, sans-serif;
     font-weight: 400;
     letter-spacing: -2px;
 }
@@ -136,35 +136,35 @@ h1 {
 
 .text-link {
     color: var(--blue-dark);
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 700;
 }
 
 .site-footer {
     display: flex;
     justify-content: space-between;
-    padding: 22px 0;
+    padding: 18px 0;
     border-top: 1px solid var(--line);
     color: var(--muted);
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .content-page {
-    padding: 100px 0;
+    padding: 80px 0;
 }
 
 .content-copy {
     max-width: 650px;
     margin: 58px 0 0 16%;
     border-left: 2px solid var(--blue);
-    padding-left: 32px;
+    padding-left: 30px;
 }
 
 .content-copy p,
 .project-details p {
     margin: 0 0 24px;
     color: var(--muted);
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.8;
 }
 
@@ -180,10 +180,10 @@ h1 {
 }
 
 .heading-note {
-    max-width: 190px;
+    max-width: 170px;
     margin: 0 0 8px;
     color: var(--muted);
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.6;
 }
 
@@ -195,7 +195,7 @@ h1 {
 
 .project-image-wrap {
     min-height: 440px;
-    padding: 34px;
+    padding: 30px;
     background-color: #dcecff;
 }
 
@@ -215,7 +215,7 @@ h1 {
 
 .project-details h2 {
     margin-bottom: 24px;
-    color: var(--ink);
+    color: black;
     font-size: 58px;
 }
 
